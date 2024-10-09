@@ -1,0 +1,68 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 5761154,
+            "tagId": 21439,
+            "name": "harvesting robot 2016",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-25T11:26:32.906Z",
+            "updatedAt": "2023-09-25T11:26:32.906Z"
+        }
+    ],
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "id": 49921923,
+            "classId": 6462319,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-25T11:26:32.908Z",
+            "updatedAt": "2023-09-25T11:26:32.908Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        315,
+                        3
+                    ],
+                    [
+                        439,
+                        129
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 49921922,
+            "classId": 6462319,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-25T11:26:32.907Z",
+            "updatedAt": "2023-09-25T11:26:32.907Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        1187,
+                        617
+                    ],
+                    [
+                        1279,
+                        723
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

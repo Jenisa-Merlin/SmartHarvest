@@ -1,0 +1,188 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 5760297,
+            "tagId": 21440,
+            "name": "harvesting robot 2017",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-25T11:24:58.834Z",
+            "updatedAt": "2023-09-25T11:24:58.834Z"
+        }
+    ],
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "id": 49914921,
+            "classId": 6462319,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-25T11:24:58.839Z",
+            "updatedAt": "2023-09-25T11:24:58.839Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        989,
+                        451
+                    ],
+                    [
+                        1057,
+                        539
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 49914920,
+            "classId": 6462319,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-25T11:24:58.837Z",
+            "updatedAt": "2023-09-25T11:24:58.837Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        820,
+                        636
+                    ],
+                    [
+                        917,
+                        723
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 49914919,
+            "classId": 6462319,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-25T11:24:58.836Z",
+            "updatedAt": "2023-09-25T11:24:58.836Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        743,
+                        651
+                    ],
+                    [
+                        838,
+                        737
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 49914918,
+            "classId": 6462319,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-25T11:24:58.836Z",
+            "updatedAt": "2023-09-25T11:24:58.836Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        766,
+                        725
+                    ],
+                    [
+                        858,
+                        797
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 49914917,
+            "classId": 6462319,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-25T11:24:58.835Z",
+            "updatedAt": "2023-09-25T11:24:58.835Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        633,
+                        686
+                    ],
+                    [
+                        715,
+                        772
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 49914916,
+            "classId": 6462319,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-25T11:24:58.835Z",
+            "updatedAt": "2023-09-25T11:24:58.835Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        483,
+                        586
+                    ],
+                    [
+                        561,
+                        667
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 49914915,
+            "classId": 6462319,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-25T11:24:58.835Z",
+            "updatedAt": "2023-09-25T11:24:58.835Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        300,
+                        604
+                    ],
+                    [
+                        380,
+                        684
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

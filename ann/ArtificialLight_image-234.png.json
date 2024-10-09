@@ -1,0 +1,68 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 5760748,
+            "tagId": 21437,
+            "name": "artificial light",
+            "value": null,
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-25T11:26:07.430Z",
+            "updatedAt": "2023-09-25T11:26:07.430Z"
+        }
+    ],
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "objects": [
+        {
+            "id": 49919727,
+            "classId": 6462319,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-25T11:26:07.430Z",
+            "updatedAt": "2023-09-25T11:26:07.430Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        608,
+                        556
+                    ],
+                    [
+                        694,
+                        658
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 49919726,
+            "classId": 6462319,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2023-09-25T11:26:07.430Z",
+            "updatedAt": "2023-09-25T11:26:07.430Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        588,
+                        654
+                    ],
+                    [
+                        698,
+                        756
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
